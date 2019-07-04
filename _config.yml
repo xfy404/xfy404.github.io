@@ -75,9 +75,3 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: yilia
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-type:git
-repo: git@github.com:xfy404/xfy404.github.io.git  
- branch: master   
